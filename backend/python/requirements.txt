@@ -1,0 +1,10 @@
+flask
+flask-cors
+langchain==0.1.13
+langchain-community==0.0.29
+openai==1.14.2
+python-dotenv
+PyPdf2
+serp
+serpapi
+google-search-results
