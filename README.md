@@ -1,9 +1,9 @@
 # SmartPath📚🎓
 Our project for the Aeravat 1.0 national level AI Hackathon conducted at Sardar Patel Institute of Technology.
 
-#Working of the project
-
-# Personalized Career Roadmap for Engineering Students
+# Working of the project
+https://github.com/tanisha0605/SmartPath_Aeravat1.0/assets/144723509/4605ba2c-3078-439b-8670-d1831eb2a4c3
+# Personalized Career Roadmap for Engineering Students🚀
 
 ## Problem Statement
 
