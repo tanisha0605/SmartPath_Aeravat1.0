@@ -26,6 +26,12 @@ As a second-year engineering student, it can be challenging to navigate the path
 - Recommend specific technologies, programming languages, frameworks, tools, and platforms relevant to the user's dream role and industry preferences.
 - Provide curated lists of online courses, tutorials, books, and other learning resources to help the user acquire necessary skills and knowledge.
 
+## Technology Stack
+
+- **Frontend**: TypeScript, Next.js, Tailwind CSS
+- **Backend**: Python, Flask, Node.js, MongoDB
+- **AI**: LangChain for natural language processing and Web scraping for data gathering.
+
 ## Challenges
 
 1. **Timely Preparation**: Ensure the user is adequately prepared with the required skills before the commencement of campus placements.
